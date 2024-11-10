@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kihikoa. You can call me Angela!
+- 👋🏾 Hi, I’m @kihikoa. You can call me Angela!
 - 👀 I’m interested in how I can make the world a more accessible place through music, teaching, tech, mental health and virtual reality. 
 - 🌱 I’m currently learning Web Development with Code: You.
 - 💞️ I’m looking to collaborate on building accessible technology.
